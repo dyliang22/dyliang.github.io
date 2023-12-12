@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dingyin Liang Personal Page"
+title                    : "Dingyin Liang"
 title_separator          : "-"
-name                     : &name "Dingyin Liang"
+name                     : &name "Dingyin Liang (梁 丁尹)"
 description              : &description "personal description"
 url                      : https://dyliang22.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
