@@ -15,7 +15,7 @@ Education
 
 Research Activities
 ======
-* Bachelor's thesis, 2021-2022
+* [Bachelor's thesis](https://dyliang22.github.io/files/thesis.pdf), 2021-2022
 * Supervisor: Prof. Shijun Wu
   
 Skills
